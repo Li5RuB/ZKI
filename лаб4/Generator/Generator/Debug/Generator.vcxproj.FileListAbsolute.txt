@@ -1,0 +1,2 @@
+D:\Курс3\ЗКИ\лаб4\Generator\Generator\Debug\Generator.exe
+D:\Курс3\ЗКИ\лаб4\Generator\Generator\Debug\Generator.pdb

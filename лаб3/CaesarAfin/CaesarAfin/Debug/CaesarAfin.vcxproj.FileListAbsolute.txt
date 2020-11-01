@@ -1,0 +1,2 @@
+D:\Курс3\ЗКИ\лаб3\CaesarAfin\CaesarAfin\Debug\CaesarAfin.exe
+D:\Курс3\ЗКИ\лаб3\CaesarAfin\CaesarAfin\Debug\CaesarAfin.pdb

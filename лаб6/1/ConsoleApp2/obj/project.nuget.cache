@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nku0J7s3sqqJt8mQ8RLIjLj6tRlEhgfvqcD/GwvKcUaVzGf+qdEkb9S4Em4vuNdPvvf+4zdUKuxsx1qxKACxtw==",
+  "success": true,
+  "projectFilePath": "D:\\Курс3\\ЗКИ\\лаб6\\1\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\37529\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\37529\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

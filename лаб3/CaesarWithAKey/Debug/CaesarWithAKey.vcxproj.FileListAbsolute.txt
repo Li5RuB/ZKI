@@ -1,0 +1,2 @@
+D:\Курс3\ЗКИ\лаб3\CaesarWithAKey\Debug\CaesarWithAKey.exe
+D:\Курс3\ЗКИ\лаб3\CaesarWithAKey\Debug\CaesarWithAKey.pdb
